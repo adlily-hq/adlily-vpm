@@ -1,0 +1,17 @@
+{
+	"name": "Adlily",
+	"id": "ly.adli.vrchat",
+	"description": "VRChat packages for Adlily",
+	"author": {
+		"email": "support@adli.ly",
+		"name": "VRChat",
+		"url": "https://hello.vrchat.com"
+	},
+	"infoLink": {
+		"url": "https://adli.ly",
+		"text": "View our website"
+	},
+	"bannerUrl": "banner.png",
+	"url": "https://vpm.adli.ly/index.json",
+	"packages": []
+}
