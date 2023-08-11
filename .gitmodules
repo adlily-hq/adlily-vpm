@@ -1,0 +1,3 @@
+[submodule "ly.adli.vrchat-2"]
+	path = Packages/ly.adli.vrchat
+	url = https://github.com/adlily-hq/ly.adli.vrchat.git

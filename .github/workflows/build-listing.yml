@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  CurrentPackageName: com.vrchat.demo-template
+  CurrentPackageName: ly.adli.vrchat
   listPublishDirectory: Website
   pathToCi: ci
   
