@@ -5,13 +5,13 @@
 	"author": {
 		"email": "support@adli.ly",
 		"name": "VRChat",
-		"url": "https://hello.vrchat.com"
+		"url": "https://adli.ly"
 	},
 	"infoLink": {
 		"url": "https://adli.ly",
 		"text": "View our website"
 	},
-	"bannerUrl": "banner.png",
+	"bannerUrl": "adlily-banner.png",
 	"url": "https://vpm.adli.ly/index.json",
 	"packages": []
 }
