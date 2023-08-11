@@ -13,5 +13,8 @@
 	},
 	"bannerUrl": "adlily-banner.png",
 	"url": "https://vpm.adli.ly/index.json",
+	"githubRepos": [
+		"adlily-hq/adlily-vpm"
+	],
 	"packages": []
 }
