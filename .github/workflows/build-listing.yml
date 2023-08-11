@@ -36,6 +36,9 @@ jobs:
     steps:
       
       - uses: actions/checkout@v3 # check out this repo
+        with:
+          token: ${{ secrets.GH_CHECKOUT_TOKEN }}
+          submodules: recursive
       - uses: actions/checkout@v3 # check out automation repo
         with:
           repository: vrchat-community/package-list-action
